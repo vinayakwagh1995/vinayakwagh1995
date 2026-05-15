@@ -40,20 +40,19 @@ Pune, Maharashtra, India
 # 📊 GitHub Stats:
 ## 📊 GitHub Stats
 
+
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=vinayak0119&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+      <img src="https://github-readme-stats.vercel.app/api?username=vinayakwaghmare&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinayak0119&theme=tokyonight&hide_border=true" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinayakwaghmare&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
     </td>
   </tr>
-
   <tr>
-    <td colspan="2" align="center">
-      <img width="50%"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinayak0119&theme=tokyonight&hide_border=true&layout=compact" />
+    <td colspan="2">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinayakwaghmare&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
     </td>
   </tr>
 </table>
