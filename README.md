@@ -38,19 +38,22 @@ Pune, Maharashtra, India
   - Description: This is a solo project I built for learning purposes. I aimed to replicate the YouTube UI and added basic functionality using React.
 
 # 📊 GitHub Stats:
+## 📊 GitHub Stats
 
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=vinayak0119&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=vinayak0119&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinayak0119&theme=dark&hide_border=false" alt="GitHub Streak" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinayak0119&theme=tokyonight&hide_border=true" />
     </td>
   </tr>
+
   <tr>
-    <td colspan="2">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinayak0119&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+    <td colspan="2" align="center">
+      <img width="50%"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinayak0119&theme=tokyonight&hide_border=true&layout=compact" />
     </td>
   </tr>
 </table>
