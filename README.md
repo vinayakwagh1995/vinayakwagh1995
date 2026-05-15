@@ -1,59 +1,148 @@
 <div align="center">
 
-# ⚡ Hi 👋, I'm Vinayak Wagh
+# ⚡ Hi 👋, I'm Vinayak Kamble
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Frontend+Developer;MERN+Stack+Developer;React+Developer;Always+Learning+New+Things..." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F72E&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+Developer;MERN+Stack+Developer;Passionate+Web+Developer;Always+Learning+New+Things..." />
 
-<img src="https://i.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400"/>
+<img src="https://stormystudio.com/wp-content/uploads/2023/02/Animation-for-business-rotating-character-desk-scene.gif" width="450"/>
 
 </div>
 
 ---
 
-# 💀 About Me
+# 💫 About Me
 
-```bash
-💻 Frontend / MERN Stack Developer
-🚀 Passionate about Web Development
-🔥 Building Modern Web Apps
-📚 Currently Learning Backend Development
-⚡ Love Clean UI & Performance
-```
+<table>
+<tr>
+
+<td width="55%">
+
+### 👨‍💻 Professional Summary
+
+💻 Frontend / MERN Stack Developer with **1.2 years** of professional experience at **WeDoGood Ventures**.
+
+🎓 Completed **B.Tech in Computer Science** from **BATU University**.
+
+🚀 Skilled in building modern, scalable, and responsive web applications using:
+
+- React.js
+- Next.js
+- JavaScript
+- Node.js
+- Express.js
+- MongoDB
+- SQL
+
+🌱 Passionate about:
+- Clean Code
+- UI/UX
+- Performance Optimization
+- Scalable Architecture
+
+🔥 Completed Full Stack Web Development training at **Masai School** with strong hands-on project experience.
+
+🌐 Portfolio:
+<a href="https://vinayak-kamble-portfolio.netlify.app/" target="_blank">Visit Portfolio</a>
+
+📍 Pune, Maharashtra, India
+
+</td>
+
+<td width="45%">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-# 🧠 Tech Stack
+# 🌐 Connect With Me
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,mysql,git,github,vscode,tailwind,bootstrap,firebase" />
+<a href="https://www.linkedin.com/in/vinayak-kamble-sk/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
+</a>
+
+<a href="https://www.instagram.com/vinayak0119/" target="_blank">
+<img src="https://skillicons.dev/icons?i=instagram" width="55"/>
+</a>
+
+<a href="mailto:yourmail@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="55"/>
+</a>
+
+<a href="https://github.com/vinayakwaghmare" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" width="55"/>
+</a>
 
 </div>
 
 ---
 
-# ⚡ GitHub Stats
+# 💻 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,redux,tailwind,bootstrap,git,github,vscode,postman,firebase,figma" />
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+## 🔹 Godawari Loop (TMetrix)
+
+🔗 https://t-matrix.netlify.app/
+
+✨ Responsive frontend clone project developed during construct week using modern React architecture.
+
+---
+
+## 🔹 BitPulse Music Streaming App
+
+🔗 https://beet-pulse-music.netlify.app
+
+🎵 Open-source music streaming platform inspired by Spotify and YouTube with dynamic playlists, search, and music player.
+
+---
+
+## 🔹 skTube
+
+🔗 https://vinayak0119.github.io/skytube/
+
+📺 YouTube-inspired React application built for learning frontend architecture and reusable component design.
+
+---
+
+# 📊 GitHub Stats
 
 <div align="center">
 
 <table>
 <tr>
+
 <td>
 
-<img src="https://github-readme-stats.vercel.app/api?username=vinayak0119&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=vinayakwaghmare&theme=chartreuse-dark&hide_border=true&show_icons=true&count_private=true" />
 
 </td>
 
 <td>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vinayak0119&theme=chartreuse-dark&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vinayakwaghmare&theme=chartreuse-dark&hide_border=true" />
 
 </td>
+
 </tr>
 </table>
 
-<img width="50%"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinayak0119&theme=chartreuse-dark&hide_border=true&layout=compact" />
+<img width="45%"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinayakwaghmare&theme=chartreuse-dark&hide_border=true&layout=compact" />
 
 </div>
 
@@ -63,27 +152,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinayak0119&
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=vinayak0119&theme=matrix&no-frame=true&margin-w=15" />
-
-</div>
-
----
-
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://linkedin.com">
-<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
-</a>
-
-<a href="https://instagram.com">
-<img src="https://skillicons.dev/icons?i=instagram" width="50"/>
-</a>
-
-<a href="mailto:yourmail@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="50"/>
-</a>
+<img src="https://github-profile-trophy.vercel.app/?username=vinayakwaghmare&theme=matrix&no-frame=true&margin-w=15" />
 
 </div>
 
@@ -99,11 +168,21 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinayak0119&
 
 ---
 
+# ✍️ Quote of the Day
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
 # 👀 Profile Views
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=vinayak0119&label=PROFILE+VIEWS&color=00ff00&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=vinayakwaghmare&label=PROFILE+VIEWS&color=00ff00&style=for-the-badge" />
 
 </div>
 
@@ -111,6 +190,6 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinayak0119&
 
 <div align="center">
 
-## 🔥 "Code. Create. Repeat."
+## ⚡ Code • Build • Innovate • Repeat
 
 </div>
