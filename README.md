@@ -98,11 +98,16 @@ A passionate **Full Stack / MERN Stack Developer** from India 🇮🇳 with back
 🛒 Full-stack MERN application with product management, authentication, cart system, and responsive UI.
 
 ---
-Village Website
+
+## 🔹 Village Website
 
 🌐 Informative and responsive web platform designed for village-related information, local services, news updates, events, tourism highlights, and community engagement. Built with a modern and user-friendly interface to provide easy access across all devices.
 
-🔗 Live Demo: Village Website
+🔗 Live Demo:  
+<a href="https://village-project-phi.vercel.app/" target="_blank">Village Website</a>
+
+---
+
 ## 🔹 Music Management System
 
 🎵 Music management platform with dynamic UI, media handling, and modern frontend architecture.
