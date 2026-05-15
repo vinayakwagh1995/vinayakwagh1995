@@ -4,40 +4,27 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;Backend+Developer;Passionate+Web+Developer;Always+Learning+New+Technologies..." />
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420"/>
-
 </div>
 
 ---
 
-# 💫 About Me
+<div align="center">
+
+# 👋 About Me
+
+</div>
 
 <table>
 <tr>
 
 <td width="55%">
 
-### 👨‍💻 Professional Summary
+Hi, I’m **Vinayak Waghmare** 👋  
+A passionate **Full Stack / MERN Stack Developer** from India 🇮🇳 with backend development experience and hands-on expertise in building scalable and responsive web applications using **React.js, Node.js, Express.js, MongoDB, MySQL, JavaScript, TypeScript, HTML5, CSS3, and Tailwind CSS** 💻
 
-💻 Full Stack / MERN Stack Developer with backend development experience and hands-on expertise in building modern, scalable, and responsive web applications.
+🚀 I enjoy building clean UI designs, scalable backend systems, REST APIs, and modern full-stack applications.
 
-🎓 Completed B.Tech in Computer Science Engineering with strong practical exposure to full-stack development and real-world project implementation.
-
-🚀 Skilled in:
-
-- React.js
-- Node.js
-- Express.js
-- MongoDB
-- MySQL
-- JavaScript
-- TypeScript
-- HTML5
-- CSS3
-- Tailwind CSS
-- REST APIs
-
-🌱 Currently focused on strengthening modern MERN stack development, scalable backend architecture, and clean application design.
+🌱 Currently focused on improving backend architecture, MERN stack scalability, and modern web application development.
 
 🔥 Built multiple real-world projects including:
 - E-commerce Platform
